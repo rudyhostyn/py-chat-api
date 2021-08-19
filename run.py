@@ -1,0 +1,1 @@
+from wabot import app
